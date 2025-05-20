@@ -15,7 +15,7 @@ Site institucional desenvolvido para uma marca autoral de bolsas artesanais.
 - Organização por coleções e produtos
 - Textos autorais com foco em storytelling
 - Fundo visual com padrão de costura
-- Projeto em andamneto - aguardando novas imagens da coleção Amor Doce
+- Projeto em andamento - aguardando novas imagens da coleção Amor Doce
 
 ## 🛠️ Status
 Em desenvolvimento contínuo - coleção em expansão.
